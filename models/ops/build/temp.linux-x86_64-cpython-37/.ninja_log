@@ -1,0 +1,4 @@
+# ninja log v5
+0	7522	1709353947961840126	/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/build/temp.linux-x86_64-cpython-37/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/src/cpu/ms_deform_attn_cpu.o	110c6570c2e18df2
+0	23108	1709353963505705851	/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/build/temp.linux-x86_64-cpython-37/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/src/cuda/ms_deform_attn_cuda.o	ed5df6cac44d6150
+0	28278	1709353968709661128	/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/build/temp.linux-x86_64-cpython-37/mnt/disk3/tiennh1/CL-DETR-1-main/models/ops/src/vision.o	b7cb96ab791b00b7
